@@ -1,1 +1,1 @@
-*.ipynb linguist-detectable=false
+*.ipynb_checkpoints/ linguist-detectable=false

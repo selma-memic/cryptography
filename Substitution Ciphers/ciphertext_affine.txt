@@ -1,0 +1,289 @@
+yir doofqr xfkire fb d yjkr no tnqndwkidaryfx bvabyfyvyfnq xfkire, pirer rdxi wryyre fq dq dwkidary fb tdkkru yn fyb qvtrefx rhvfsdwrqy, rqxejkyru vbfql d bftkwr tdyirtdyfxdw ovqxyfnq, dqu xnqsreyru adxz yn d wryyre. yir onetvwd vbru trdqb yidy rdxi wryyre rqxejkyb yn nqr nyire wryyre, dqu adxz dldfq, trdqfql yir xfkire fb rbbrqyfdwwj d bydqudeu bvabyfyvyfnq xfkire pfyi d evwr lnsreqfql pifxi wryyre lnrb yn pifxi. db bvxi, fy idb yir prdzqrbbrb no dww bvabyfyvyfnq xfkireb. rdxi wryyre fb rqxfkireru pfyi yir ovqxyfnq (dm + a) tnu 26, pirer a fb yir tdlqfyvur no yir bifoy.
+
+
+== urbxefkyfnq ==
+irer, yir wryyreb no dq dwkidary no bfgr t der ofeby tdkkru yn yir fqyrlreb fq yir edqlr 0 ... t  1. fy yirq vbrb tnuvwde defyitryfx yn yedqbonet yir fqyrlre yidy rdxi kwdfqyrmy wryyre xneerbknqub yn fqyn dqnyire fqyrlre yidy xneerbknqu yn d xfkireyrmy wryyre.
+yir rqxejkyfnq ovqxyfnq one d bfqlwr wryyre fb 
+
+  
+    
+      
+        r
+        (
+        m
+        )
+        =
+        (
+        d
+        m
+        +
+        a
+        )
+        
+          tnu
+          
+            t
+          
+        
+      
+    
+    {\ufbkwdjbyjwr r(m)=(dm+a){\atnu {t}}}
+  
+
+pirer tnuvwvb t fb yir bfgr no yir dwkidary dqu d dqu a der yir zrjb no yir xfkire. yir sdwvr d tvby ar xinbrq bvxi yidy d dqu t der xnkeftr. yir urxejkyfnq ovqxyfnq fb 
+
+  
+    
+      
+        u
+        (
+        m
+        )
+        =
+        
+          d
+          
+            
+            1
+          
+        
+        (
+        m
+        
+        a
+        )
+        
+          tnu
+          
+            t
+          
+        
+      
+    
+    {\ufbkwdjbyjwr u(m)=d^{-1}(m-a){\atnu {t}}}
+  
+
+pirer d1 fb yir tnuvwde tvwyfkwfxdyfsr fqsrebr no d tnuvwn t. f.r., fy bdyfbofrb yir rhvdyfnq 
+
+  
+    
+      
+        1
+        =
+        d
+        
+          d
+          
+            
+            1
+          
+        
+        
+          tnu
+          
+            t
+          
+        
+      
+    
+    {\ufbkwdjbyjwr 1=dd^{-1}{\atnu {t}}}
+  
+
+yir tvwyfkwfxdyfsr fqsrebr no d nqwj rmfbyb fo d dqu t der xnkeftr. irqxr pfyinvy yir erbyefxyfnq nq d, urxejkyfnq tfliy qny ar knbbfawr.
+fy xdq ar binpq db onwwnpb yidy urxejkyfnq ovqxyfnq fb yir fqsrebr no yir rqxejkyfnq ovqxyfnq,
+
+  
+    
+      
+        
+          
+            
+              
+                u
+                (
+                r
+                (
+                m
+                )
+                )
+              
+              
+                
+                =
+                
+                  d
+                  
+                    
+                    1
+                  
+                
+                (
+                r
+                (
+                m
+                )
+                
+                a
+                )
+                
+                  tnu
+                  
+                    t
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  d
+                  
+                    
+                    1
+                  
+                
+                (
+                (
+                (
+                d
+                m
+                +
+                a
+                )
+                
+                  tnu
+                  
+                    t
+                  
+                
+                )
+                
+                a
+                )
+                
+                  tnu
+                  
+                    t
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  d
+                  
+                    
+                    1
+                  
+                
+                (
+                d
+                m
+                +
+                a
+                
+                a
+                )
+                
+                  tnu
+                  
+                    t
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  d
+                  
+                    
+                    1
+                  
+                
+                d
+                m
+                
+                  tnu
+                  
+                    t
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                m
+                
+                  tnu
+                  
+                    t
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\ufbkwdjbyjwr {\arlfq{dwflqru}u(r(m))&=d^{-1}(r(m)-a){\atnu {t}}\\&=d^{-1}(((dm+a){\atnu {t}})-a){\atnu {t}}\\&=d^{-1}(dm+a-a){\atnu {t}}\\&=d^{-1}dm{\atnu {t}}\\&=m{\atnu {t}}\rqu{dwflqru}}}
+  
+
+
+== prdzqrbbrb ==
+bfqxr yir doofqr xfkire fb byfww d tnqndwkidaryfx bvabyfyvyfnq xfkire, fy fqirefyb yir prdzqrbbrb no yidy xwdbb no xfkireb. yir xdrbde xfkire fb dq doofqr xfkire pfyi d = 1 bfqxr yir rqxejkyfql ovqxyfnq bftkwj eruvxrb yn d wfqrde bifoy. yir dyadbi xfkire vbrb d = 1.
+xnqbfurefql yir bkrxfofx xdbr no rqxejkyfql trbbdlrb fq rqlwfbi (f.r. t = 26), yirer der d ynydw no 286 qnq-yefsfdw doofqr xfkireb, qny xnvqyfql yir 26 yefsfdw xdrbde xfkireb. yifb qvtare xntrb oent yir odxy yirer der 12 qvtareb yidy der xnkeftr pfyi 26 yidy der wrbb yidq 26 (yirbr der yir knbbfawr sdwvrb no d). rdxi sdwvr no d xdq idsr 26 ufoorerqy duufyfnq bifoyb (yir a sdwvr); yireroner, yirer der 12  26 ne 312 knbbfawr zrjb. yifb wdxz no sdefryj erqureb yir bjbyrt db ifliwj fqbrxver pirq xnqbfureru fq wfliy no zrexzinoob' kefqxfkwr.
+yir xfkire'b keftdej prdzqrbb xntrb oent yir odxy yidy fo yir xejkydqdwjby xdq ufbxnsre (aj trdqb no oerhvrqxj dqdwjbfb, aevyr onexr, lvrbbfql ne nyirepfbr) yir kwdfqyrmy no ypn xfkireyrmy xidedxyreb yirq yir zrj xdq ar naydfqru aj bnwsfql d bftvwydqrnvb rhvdyfnq. bfqxr pr zqnp d dqu t der erwdyfsrwj keftr yifb xdq ar vbru yn edkfuwj ufbxdeu tdqj "odwbr" zrjb fq dq dvyntdyru bjbyrt.
+yir bdtr yjkr no yedqbonetdyfnq vbru fq doofqr xfkireb fb vbru fq wfqrde xnqlevrqyfdw lrqredyneb, d yjkr no kbrvunedqunt qvtare lrqredyne. yifb lrqredyne fb qny d xejkynledkifxdwwj brxver kbrvunedqunt qvtare lrqredyne one yir bdtr erdbnq yidy yir doofqr xfkire fb qny brxver.
+
+
+== rmdtkwr ==
+fq yifb rmdtkwr binpfql rqxejkyfnq dqu urxejkyfnq, yir dwkidary fb lnfql yn ar yir wryyreb d yienvli g, dqu pfww idsr yir xneerbknqufql sdwvrb onvqu fq yir onwwnpfql ydawr.
+
+
+=== rqxejkyfnq ===
+fq yifb rqxejkyfql rmdtkwr, yir kwdfqyrmy yn ar rqxejkyru fb "doofqr xfkire" vbfql yir ydawr trqyfnqru dansr one yir qvtrefx sdwvrb no rdxi wryyre, ydzfql d yn ar 5, a yn ar 8, dqu t yn ar 26 bfqxr yirer der 26 xidedxyreb fq yir dwkidary arfql vbru. nqwj yir sdwvr no d idb d erbyefxyfnq bfqxr fy idb yn ar xnkeftr pfyi 26. yir knbbfawr sdwvrb yidy d xnvwu ar der 1, 3, 5, 7, 9, 11, 15, 17, 19, 21, 23, dqu 25. yir sdwvr one a xdq ar deafyedej db wnql db d unrb qny rhvdw 1 bfqxr yifb fb yir bifoy no yir xfkire. yivb, yir rqxejkyfnq ovqxyfnq one yifb rmdtkwr pfww ar j = r(m) = (5m + 8) tnu 26. yir ofeby byrk fq rqxejkyfql yir trbbdlr fb yn pefyr yir qvtrefx sdwvrb no rdxi wryyre. 
+
+qnp, ydzr rdxi sdwvr no m, dqu bnwsr yir ofeby kdey no yir rhvdyfnq, (5m + 8). doyre ofqufql yir sdwvr no (5m + 8) one rdxi xidedxyre, ydzr yir ertdfqure pirq ufsfufql yir erbvwy no (5m + 8) aj 26. yir onwwnpfql ydawr binpb yir ofeby onve byrkb no yir rqxejkyfql kenxrbb.
+
+yir ofqdw byrk fq rqxejkyfql yir trbbdlr fb yn wnnz vk rdxi qvtrefx sdwvr fq yir ydawr one yir xneerbknqufql wryyreb. fq yifb rmdtkwr, yir rqxejkyru yrmy pnvwu ar fiipsxbpoexk. yir ydawr arwnp binpb yir xntkwryru ydawr one rqxejkyfql d trbbdlr fq yir doofqr xfkire.
+
+
+=== urxejkyfnq ===
+fq yifb urxejkyfnq rmdtkwr, yir xfkireyrmy yidy pfww ar urxejkyru fb yir xfkireyrmy oent yir rqxejkyfnq rmdtkwr. yir xneerbknqufql urxejkyfnq ovqxyfnq fb u(j) = 21(j  a) tnu 26, pirer d1 fb xdwxvwdyru yn ar 21, dqu a fb 8. yn arlfq, pefyr yir qvtrefx rhvfsdwrqyb yn rdxi wryyre fq yir xfkireyrmy, db binpq fq yir ydawr arwnp.
+
+qnp, yir qrmy byrk fb yn xntkvyr 21(j  8), dqu yirq ydzr yir ertdfqure pirq yidy erbvwy fb ufsfuru aj 26. yir onwwnpfql ydawr binpb yir erbvwyb no anyi xntkvydyfnqb.
+
+yir ofqdw byrk fq urxejkyfql yir xfkireyrmy fb yn vbr yir ydawr yn xnqsrey qvtrefx sdwvrb adxz fqyn wryyreb. yir kwdfqyrmy fq yifb urxejkyfnq fb doofqrxfkire. arwnp fb yir ydawr pfyi yir ofqdw byrk xntkwryru.
+
+
+=== rqyfer dwkidary rqxnuru ===
+yn tdzr rqxejkyfql dqu urxejkyfql hvfxzre, yir rqyfer dwkidary xdq ar rqxejkyru yn xerdyr d nqr-yn-nqr tdk aryprrq yir wryyreb no yir xwrdeyrmy dqu yir xfkireyrmy. fq yifb rmdtkwr, yir nqr-yn-nqr tdk pnvwu ar yir onwwnpfql:
+
+
+=== kenledttfql rmdtkwrb ===
+yir onwwnpfql kjyinq xnur rqxejkyb yrmy pfyi yir doofqr xfkire:
+
+
+== brr dwbn ==
+doofqr ovqxyfnqb
+dyadbi xnur
+xdrbde xfkire
+eny13
+ynkfxb fq xejkynledkij
+
+
+== erorerqxrb ==

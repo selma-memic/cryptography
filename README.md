@@ -5,7 +5,6 @@ This repository contains three applied cryptography projects developed during my
 **📚 Course**: Elements of Applied Data Security  
 **🏫 University**: University of Bologna  
 **📈 Grade Average**: 93.33%  
-**🌍 Erasmus Student**: Yes (incoming)
 
 ---
 

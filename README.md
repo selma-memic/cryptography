@@ -2,7 +2,7 @@
 
 This repository contains three applied cryptography projects developed during my Erasmus studies at the University of Bologna for the course **Elements of Applied Data Security**. The projects cover core concepts in modern and classical cryptography, implemented in Python using Jupyter Notebooks.
 
-**📚 Course**: Elements of Applied Data Security  
+**📚 Course**: Elements of Applied Data Security
 **🏫 University**: University of Bologna  
 **📈 Grade Average**: 93.33%  
 
